@@ -74,3 +74,11 @@ gcloud run deploy --image gcr.io/<project_id>/<application-name-tag> --platform 
 - Now, you can open the generated URL inside the `Cloud Run` and open your application hosted in Google Cloud.
 
 ![Succeed Deployment of the Google Cloud Run](imgs/deploy-success.png)
+
+---
+<div align="center">
+  <strong>"People’s dreams... Have no ends" - OP</strong>
+</div>
+<p align="center">
+  <sub>Created by BrenoAV</sub>
+</p>
