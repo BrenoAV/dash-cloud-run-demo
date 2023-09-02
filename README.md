@@ -20,7 +20,7 @@ $ source .venv/bin/activate  # unix
 - Install the dependencies:
 
 ```bash
-$ pip install -r requeriments.txt
+$ pip install -r requirements.txt
 ```
 
 - You can run the `app.py` and see the dashboard (Don't forget to change to `debug=True` inside the file: [app.py](app.py))
