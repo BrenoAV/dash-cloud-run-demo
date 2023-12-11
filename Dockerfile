@@ -6,7 +6,7 @@ WORKDIR $APP_HOME
 COPY . ./
 
 # Install depedencies
-RUN pip install -r requeriments.txt
+RUN pip install -r requirements.txt
 
 EXPOSE 8080
 
